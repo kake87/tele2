@@ -1,7 +1,7 @@
 from test import myfunc
 
-a = 10
-b = 'sada'
+author = 'Kanat'
+test = 'Github'
 
 
 if __name__ == '__main__':
